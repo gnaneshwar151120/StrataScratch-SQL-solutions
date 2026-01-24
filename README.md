@@ -10,18 +10,25 @@ The goal of this repository is to:
 - Build long-term consistency in SQL learning
 
 ---
-
-## 🗂 Repository Structure
-StrataScratch-sql-solutions/
-└── sql/
-    ├── easy/
-    │   ├── 101_customer_orders.sql
-    │   └── 102_daily_sales.sql
-    │
-    ├── medium/
-    │   ├── 201_monthly_revenue.sql
-    │   └── 202_user_retention.sql
-    │
-    └── hard/
-        ├── 301_top_products.sql
-        └── 302_session_analysis.sql
+<table border="1" cellpadding="6" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Question ID</th>
+      <th>Question</th>
+      <th>Difficulty</th>
+      <th>Solution Path</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>9915</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1">
+          Highest Cost Orders
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>sql/medium/9915_highest_cost_orders.sql</td>
+    </tr>
+  </tbody>
+</table>
