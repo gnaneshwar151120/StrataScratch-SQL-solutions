@@ -21,7 +21,7 @@ The goal of this repository is to:
   </thead>
   <tbody>
     <tr>
-      <td>9915</td>
+      <td>1038</td>
       <td>
         <a href="https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1">
           Salaries Differences
