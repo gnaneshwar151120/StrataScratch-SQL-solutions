@@ -15,7 +15,13 @@ The goal of this repository is to:
 StrataScratch-sql-solutions/
 └── sql/
     ├── easy/
+    │   ├── 101_customer_orders.sql
+    │   └── 102_daily_sales.sql
     │
     ├── medium/
+    │   ├── 201_monthly_revenue.sql
+    │   └── 202_user_retention.sql
     │
     └── hard/
+        ├── 301_top_products.sql
+        └── 302_session_analysis.sql
