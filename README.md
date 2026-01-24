@@ -34,6 +34,21 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <tr>
+      <td>10299</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10299-finding-updated-records?code_type=1">
+          Finding Updated Records
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10299.sql">
+          Solution_10299
+        </a>
+      </td>
+    </tr>
+     
   </tbody>
 </table>
 
