@@ -28,7 +28,11 @@ The goal of this repository is to:
         </a>
       </td>
       <td>Easy</td>
-      <td>sql/medium/9915_highest_cost_orders.sql</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10308.sql">
+          Solution_1038
+        </a>
+      </td>
     </tr>
   </tbody>
 </table>
