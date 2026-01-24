@@ -23,11 +23,11 @@ The goal of this repository is to:
     <tr>
       <td>9915</td>
       <td>
-        <a href="https://platform.stratascratch.com/coding/9915-highest-cost-orders?code_type=1">
-          Highest Cost Orders
+        <a href="https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1">
+          Salaries Differences
         </a>
       </td>
-      <td>Medium</td>
+      <td>Easy</td>
       <td>sql/medium/9915_highest_cost_orders.sql</td>
     </tr>
   </tbody>
