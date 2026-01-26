@@ -48,7 +48,21 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
-     
+    <td>10353</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10353-workers-with-the-highest-salaries?code_type=1">
+          Workers With The Highest Salaries
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10353.sql">
+          Solution_110353
+        </a>
+      </td>
+    </tr>
+    
+    
   </tbody>
 </table>
 
