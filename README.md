@@ -95,8 +95,8 @@ The goal of this repository is to:
       </td>
       <td>Easy</td>
       <td>
-        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9917.sql">
-          Solution_9917
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9891.sql">
+          Solution_9891
         </a>
       </td>
     </tr>
