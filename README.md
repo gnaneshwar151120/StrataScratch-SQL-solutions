@@ -21,7 +21,7 @@ The goal of this repository is to:
   </thead>
   <tbody>
     <tr>
-      <td>1038</td>
+      <td>10308</td>
       <td>
         <a href="https://platform.stratascratch.com/coding/10308-salaries-differences?code_type=1">
           Salaries Differences
@@ -30,7 +30,7 @@ The goal of this repository is to:
       <td>Easy</td>
       <td>
         <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10308.sql">
-          Solution_1038
+          Solution_10308
         </a>
       </td>
     </tr>
@@ -78,6 +78,19 @@ The goal of this repository is to:
       <td>
         <a href="https://platform.stratascratch.com/coding/9917-average-salaries?code_type=1">
           Average Salaries
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9917.sql">
+          Solution_9917
+        </a>
+      </td>
+    </tr>
+    <td>9891</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9891-customer-details?code_type=1">
+          Customer Details
         </a>
       </td>
       <td>Easy</td>
