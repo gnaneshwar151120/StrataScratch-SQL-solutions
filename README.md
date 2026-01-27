@@ -100,6 +100,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>9622</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9622-number-of-bathrooms-and-bedrooms?code_type=1">
+          Number Of Bathrooms And Bedrooms
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9622.sql">
+          Solution_9622
+        </a>
+      </td>
+    </tr>
     
     
   </tbody>
