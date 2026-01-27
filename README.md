@@ -113,6 +113,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>10061</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10061-popularity-of-hack?code_type=1">
+          Popularity of Hack
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10061.sql">
+          Solution_10061
+        </a>
+      </td>
+    </tr>
     
     
   </tbody>
