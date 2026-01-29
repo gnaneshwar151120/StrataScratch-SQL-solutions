@@ -167,7 +167,7 @@ The goal of this repository is to:
     </tr>
     <td>9913</td>
       <td>
-        <a href="hhttps://platform.stratascratch.com/coding/9913-order-details?code_type=1">
+        <a href="https://platform.stratascratch.com/coding/9913-order-details?code_type=1">
           Order Details
         </a>
       </td>
