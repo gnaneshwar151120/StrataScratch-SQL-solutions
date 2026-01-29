@@ -139,6 +139,46 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>9992</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9992-find-artists-that-have-been-on-spotify-the-most-number-of-times?code_type=1">
+          Artist Appearance Count
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9992.sql">
+          Solution_9992
+        </a>
+      </td>
+    </tr>
+    <td>9991</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9991-top-ranked-songs?code_type=1">
+          Top Ranked Songs
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9991.sql">
+          Solution_9991
+        </a>
+      </td>
+    </tr>
+    <td>9913</td>
+      <td>
+        <a href="hhttps://platform.stratascratch.com/coding/9913-order-details?code_type=1">
+          Order Details
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9913.sql">
+          Solution_9913
+        </a>
+      </td>
+    </tr>
+    
     
     
   </tbody>
