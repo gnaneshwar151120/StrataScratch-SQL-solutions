@@ -204,6 +204,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>9728</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9728-inspections-that-resulted-in-violations?code_type=1">
+         Number of violations
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9728.sql">
+          Solution_9728
+        </a>
+      </td>
+    </tr>
     
     
     
