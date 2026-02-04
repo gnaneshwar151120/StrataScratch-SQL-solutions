@@ -191,6 +191,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>9845</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9845-find-the-number-of-employees-working-in-the-admin-department?code_type=1">
+         April Admin Employees
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9845.sql">
+          Solution_9845
+        </a>
+      </td>
+    </tr>
     
     
     
