@@ -230,7 +230,58 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
-    
+    <td>9663</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9663-find-the-most-profitable-company-in-the-financial-sector-of-the-entire-world-along-with-its-continent?code_type=1">
+         Most Profitable Financial Company
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9663.sql">
+          Solution_9663
+        </a>
+      </td>
+    </tr>
+    <td>9653</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9653-count-the-number-of-user-events-performed-by-macbookpro-users?code_type=1">
+         MacBookPro User Event Count
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9653.sql">
+          Solution_9653
+        </a>
+      </td>
+    </tr>
+    <td>2056</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/2056-number-of-shipments-per-month?code_type=1">
+         Number of Shipments Per Month
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/2056.sql">
+          Solution_2056
+        </a>
+      </td>
+    </tr>
+    <td>2024</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/2024-unique-users-per-client-per-month?code_type=1">
+        Unique Users Per Client Per Month
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/2024.sql">
+          Solution_2024
+        </a>
+      </td>
+    </tr>
     
     
   </tbody>
