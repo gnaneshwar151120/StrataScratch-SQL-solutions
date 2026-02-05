@@ -217,6 +217,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+     <td>9688</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/9688-churro-activity-date?code_type=1">
+         Churro Activity DateChurro Activity Date
+        </a>
+      </td>
+      <td>Easy</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/9688.sql">
+          Solution_9688
+        </a>
+      </td>
+    </tr>
     
     
     
