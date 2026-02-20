@@ -386,6 +386,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>10553</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10553-finding-purchases?code_type=1">
+       Finding Purchases
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10553.sql">
+          Solution_10553
+        </a>
+      </td>
+    </tr>
 
     
     
