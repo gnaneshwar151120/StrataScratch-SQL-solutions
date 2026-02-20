@@ -360,6 +360,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>10304</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10304-risky-projects?code_type=1">
+        Risky Projects
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10304.sql">
+          Solution_10304
+        </a>
+      </td>
+    </tr>
 
     
     
