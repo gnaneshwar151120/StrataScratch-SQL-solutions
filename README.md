@@ -373,6 +373,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>10351</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10351-activity-rank?code_type=1">
+        Activity Rank
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10351.sql">
+          Solution_10351
+        </a>
+      </td>
+    </tr>
 
     
     
