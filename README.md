@@ -347,6 +347,19 @@ The goal of this repository is to:
         </a>
       </td>
     </tr>
+    <td>10300</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10300-premium-vs-freemium?code_type=1">
+        Premium vs Freemium
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10300.sql">
+          Solution_10300
+        </a>
+      </td>
+    </tr>
 
     
     
