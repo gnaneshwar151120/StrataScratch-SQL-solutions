@@ -398,10 +398,19 @@ The goal of this repository is to:
           Solution_10553
         </a>
       </td>
+  <td>10296</td>
+      <td>
+        <a href="https://platform.stratascratch.com/coding/10296-facebook-accounts?code_type=1">
+       Meta/Facebook Accounts
+        </a>
+      </td>
+      <td>Medium</td>
+      <td>
+        <a href="https://github.com/gnaneshwar151120/StrataScratch-SQL-solutions/blob/main/SQL/10296.sql">
+          Solution_10296
+        </a>
+      </td>
     </tr>
-
-    
-    
-  </tbody>
+</tbody>
 </table>
 
