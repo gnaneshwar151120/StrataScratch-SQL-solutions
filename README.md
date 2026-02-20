@@ -398,6 +398,7 @@ The goal of this repository is to:
           Solution_10553
         </a>
       </td>
+   </tr>
   <td>10296</td>
       <td>
         <a href="https://platform.stratascratch.com/coding/10296-facebook-accounts?code_type=1">
